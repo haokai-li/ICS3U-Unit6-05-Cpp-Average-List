@@ -57,7 +57,7 @@ int main() {
 
     // output
     std::cout << "" << std::endl;
-    std::cout << "The average is: " <<averageNumber << std::endl;
+    std::cout << "The average is: " <<averageNumber << "%" << std::endl;
 
     std::cout << "\nDone." << std::endl;
 }
